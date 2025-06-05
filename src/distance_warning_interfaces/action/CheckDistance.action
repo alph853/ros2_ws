@@ -1,0 +1,8 @@
+# Goal
+float32 distance_to_check
+---
+# Result
+bool is_safe
+---
+# Feedback
+string feedback_msg

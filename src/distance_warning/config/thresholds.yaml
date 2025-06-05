@@ -1,0 +1,4 @@
+# config/thresholds.yaml
+set_threshold_service:
+  ros__parameters:
+    threshold: 0.5
